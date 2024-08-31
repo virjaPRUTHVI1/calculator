@@ -23,7 +23,7 @@ class _BasicCalculatorState extends State<BasicCalculator> {
     double buttonHeight = size.height * 0.1;
     double buttonFontSize = size.width * 0.08;
     double displayFontSize = size.width * 0.12;
-
+///this is just for checking push into github.....
     return Scaffold(
       backgroundColor: Colors.black,
       body: Column(
